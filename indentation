@@ -1,0 +1,6 @@
+#!/usr/bin/python3
+
+if 5 < 2:
+    print("FIve is less than two!")
+else:
+    print("Five is greater")
